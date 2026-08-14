@@ -1,2 +1,2 @@
-# sql--patients--analysis
-small description of patients of a hospital 
+
+“SQL-based analysis of hospital patient data to identify key trends and insights.”
